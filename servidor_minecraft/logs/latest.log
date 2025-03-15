@@ -1,0 +1,25 @@
+[02:47:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:48:00] [ServerMain/INFO]: Loaded 1290 recipes
+[02:48:00] [ServerMain/INFO]: Loaded 1399 advancements
+[02:48:01] [Server thread/INFO]: Starting minecraft server version 1.21
+[02:48:01] [Server thread/INFO]: Loading properties
+[02:48:01] [Server thread/INFO]: Default game type: SURVIVAL
+[02:48:01] [Server thread/INFO]: Generating keypair
+[02:48:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:48:01] [Server thread/INFO]: Using epoll channel type
+[02:48:01] [Server thread/INFO]: Preparing level "world"
+[02:48:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:48:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:48:04] [Server thread/INFO]: Time elapsed: 394 ms
+[02:48:04] [Server thread/INFO]: Done (2.974s)! For help, type "help"
+[02:49:00] [User Authenticator #1/INFO]: UUID of player Knalla_13 is 2e49a188-01f8-439a-a8b6-6f6c5221de06
+[02:49:02] [Server thread/INFO]: Knalla_13[/127.57.245.131:53279] logged in with entity id 5 at (261.6505713725868, 68.30421341792974, 1010.6319163176435)
+[02:49:02] [Server thread/INFO]: Knalla_13 joined the game
+[02:53:34] [Server thread/INFO]: Knalla_13 fell from a high place
+[02:55:07] [User Authenticator #2/INFO]: UUID of player Fabriciob05 is a8a53a94-ea10-4603-9c6f-2aba7e10ffa1
+[02:55:11] [Server thread/INFO]: Fabriciob05[/127.145.12.240:54499] logged in with entity id 2196 at (271.3798284244421, 63.0, 972.0633057288653)
+[02:55:11] [Server thread/INFO]: Fabriciob05 joined the game
+[02:55:20] [Server thread/INFO]: [Knalla_13: Teleported Knalla_13 to Fabriciob05]
+[02:56:04] [Server thread/WARN]: Fabriciob05 moved too quickly! 8.486513135421035,-0.7461092740512356,5.737999034303698
+[02:56:37] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.600729645702813,-0.8322033533667508,3.043458642747055
+[02:56:48] [Server thread/WARN]: Fabriciob05 moved too quickly! 0.47152449279087705,0.17081290814229533,10.498139651649126
