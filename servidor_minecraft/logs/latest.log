@@ -24,3 +24,29 @@
 [02:56:37] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.600729645702813,-0.8322033533667508,3.043458642747055
 [02:56:48] [Server thread/WARN]: Fabriciob05 moved too quickly! 0.47152449279087705,0.17081290814229533,10.498139651649126
 [03:04:23] [Server thread/WARN]: Fabriciob05 moved too quickly! 6.323497674666214,0.07840000152587834,-7.798294347740693
+[03:11:16] [User Authenticator #3/INFO]: UUID of player AgenteRetirado2 is 768d5506-6af9-4db6-9806-4e931e445670
+[03:11:18] [Server thread/INFO]: AgenteRetirado2[/127.33.18.117:48765] logged in with entity id 8238 at (265.07185295411585, 65.02442408821369, 1025.9788366110563)
+[03:11:18] [Server thread/INFO]: AgenteRetirado2 joined the game
+[03:16:31] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.209622538829649,0.0,-4.085040546250639
+[03:16:48] [Server thread/WARN]: Fabriciob05 moved too quickly! 8.649619616828431,-0.7508129212553172,-5.614673084875676
+[03:16:55] [Server thread/WARN]: Fabriciob05 moved too quickly! 8.064174496494502,-2.176759275064242,-6.026944058125764
+[03:17:44] [Server thread/WARN]: Fabriciob05 moved too quickly! 10.035021403452674,-0.17675927506424216,1.534619045221234
+[03:17:58] [Server thread/INFO]: Villager cmk['Villager'/10191, l='ServerLevel[world]', x=35.72, y=68.00, z=1413.53] died, message: 'Villager was slain by AgenteRetirado2'
+[03:18:07] [Server thread/WARN]: Fabriciob05 moved too quickly! 0.18022742777668554,-11.207870780463594,-0.5156000874194433
+[03:19:33] [Server thread/WARN]: Fabriciob05 moved too quickly! -7.799916925195248,2.170812908142299,-6.670708400175727
+[03:23:51] [Server thread/INFO]: Villager cmk['Fletcher'/11784, l='ServerLevel[world]', x=85.70, y=81.00, z=1482.31] died, message: 'Fletcher was slain by Zombie'
+[03:29:00] [Server thread/INFO]: Villager cmk['Leatherworker'/11499, l='ServerLevel[world]', x=62.50, y=73.00, z=1440.89] died, message: 'Leatherworker was slain by Zombie'
+[03:30:14] [Server thread/INFO]: Fabriciob05 lost connection: Timed out
+[03:30:14] [Server thread/INFO]: Fabriciob05 left the game
+[03:30:15] [Server thread/WARN]: handleDisconnection() called twice
+[03:30:24] [User Authenticator #4/INFO]: UUID of player Fabriciob05 is a8a53a94-ea10-4603-9c6f-2aba7e10ffa1
+[03:30:26] [Server thread/INFO]: Fabriciob05[/127.145.12.240:52529] logged in with entity id 20070 at (917.5025008094312, 53.0, 1362.699999988079)
+[03:30:26] [Server thread/INFO]: Fabriciob05 joined the game
+[03:33:32] [Server thread/WARN]: Fabriciob05 moved too quickly! -9.003997962020776,0.0,4.97851250601957
+[03:33:59] [Server thread/INFO]: Villager cmk['Weaponsmith'/10188, l='ServerLevel[world]', x=84.39, y=72.94, z=1418.70] died, message: 'Weaponsmith was slain by AgenteRetirado2'
+[03:35:13] [Server thread/WARN]: Fabriciob05 moved too quickly! -6.467296171260841,0.7477966597462711,7.640827645664103
+[03:37:30] [Server thread/INFO]: Knalla_13 has made the advancement [The Cutest Predator]
+[03:37:34] [Server thread/WARN]: Fabriciob05 moved too quickly! -3.9813970749112286,2.0013359791121417,-9.296617277840824
+[03:37:53] [Server thread/WARN]: Fabriciob05 moved too quickly! -10.059336160830526,-2.0,0.6957038885204838
+[03:38:03] [Server thread/WARN]: Fabriciob05 moved too quickly! -10.043063178503076,2.0,-0.712553457740114
+[03:38:20] [Server thread/INFO]: [Knalla_13: Teleported Knalla_13 to AgenteRetirado2]
