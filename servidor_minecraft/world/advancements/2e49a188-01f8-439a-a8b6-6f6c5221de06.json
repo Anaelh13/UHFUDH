@@ -378,6 +378,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-03-15 02:51:37 +0000",
+      "bread": "2025-03-15 03:51:23 +0000",
       "cooked_rabbit": "2025-03-14 03:48:19 +0000",
       "cooked_chicken": "2025-03-14 04:52:24 +0000",
       "rotten_flesh": "2025-03-14 04:05:59 +0000",
@@ -1476,6 +1477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-15 03:48:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2025-03-15 03:37:30 +0000"
@@ -1488,9 +1495,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-15 03:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-15 03:48:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-03-15 03:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-15 03:48:50 +0000"
     },
     "done": true
   },
