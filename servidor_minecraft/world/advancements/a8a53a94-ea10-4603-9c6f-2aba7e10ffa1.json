@@ -1014,6 +1014,7 @@
       "minecraft:skeleton": "2025-03-14 04:40:22 +0000",
       "minecraft:spider": "2025-03-14 04:38:04 +0000",
       "minecraft:zombie": "2025-03-14 04:48:16 +0000",
+      "minecraft:creeper": "2025-03-15 04:14:10 +0000",
       "minecraft:slime": "2025-03-14 04:48:52 +0000"
     },
     "done": false
@@ -1537,6 +1538,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-03-15 03:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-03-15 04:11:52 +0000"
     },
     "done": true
   },
