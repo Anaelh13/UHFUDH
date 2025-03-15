@@ -1,67 +1,20 @@
-[02:47:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:48:00] [ServerMain/INFO]: Loaded 1290 recipes
-[02:48:00] [ServerMain/INFO]: Loaded 1399 advancements
-[02:48:01] [Server thread/INFO]: Starting minecraft server version 1.21
-[02:48:01] [Server thread/INFO]: Loading properties
-[02:48:01] [Server thread/INFO]: Default game type: SURVIVAL
-[02:48:01] [Server thread/INFO]: Generating keypair
-[02:48:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:48:01] [Server thread/INFO]: Using epoll channel type
-[02:48:01] [Server thread/INFO]: Preparing level "world"
-[02:48:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:48:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:48:04] [Server thread/INFO]: Time elapsed: 394 ms
-[02:48:04] [Server thread/INFO]: Done (2.974s)! For help, type "help"
-[02:49:00] [User Authenticator #1/INFO]: UUID of player Knalla_13 is 2e49a188-01f8-439a-a8b6-6f6c5221de06
-[02:49:02] [Server thread/INFO]: Knalla_13[/127.57.245.131:53279] logged in with entity id 5 at (261.6505713725868, 68.30421341792974, 1010.6319163176435)
-[02:49:02] [Server thread/INFO]: Knalla_13 joined the game
-[02:53:34] [Server thread/INFO]: Knalla_13 fell from a high place
-[02:55:07] [User Authenticator #2/INFO]: UUID of player Fabriciob05 is a8a53a94-ea10-4603-9c6f-2aba7e10ffa1
-[02:55:11] [Server thread/INFO]: Fabriciob05[/127.145.12.240:54499] logged in with entity id 2196 at (271.3798284244421, 63.0, 972.0633057288653)
-[02:55:11] [Server thread/INFO]: Fabriciob05 joined the game
-[02:55:20] [Server thread/INFO]: [Knalla_13: Teleported Knalla_13 to Fabriciob05]
-[02:56:04] [Server thread/WARN]: Fabriciob05 moved too quickly! 8.486513135421035,-0.7461092740512356,5.737999034303698
-[02:56:37] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.600729645702813,-0.8322033533667508,3.043458642747055
-[02:56:48] [Server thread/WARN]: Fabriciob05 moved too quickly! 0.47152449279087705,0.17081290814229533,10.498139651649126
-[03:04:23] [Server thread/WARN]: Fabriciob05 moved too quickly! 6.323497674666214,0.07840000152587834,-7.798294347740693
-[03:11:16] [User Authenticator #3/INFO]: UUID of player AgenteRetirado2 is 768d5506-6af9-4db6-9806-4e931e445670
-[03:11:18] [Server thread/INFO]: AgenteRetirado2[/127.33.18.117:48765] logged in with entity id 8238 at (265.07185295411585, 65.02442408821369, 1025.9788366110563)
-[03:11:18] [Server thread/INFO]: AgenteRetirado2 joined the game
-[03:16:31] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.209622538829649,0.0,-4.085040546250639
-[03:16:48] [Server thread/WARN]: Fabriciob05 moved too quickly! 8.649619616828431,-0.7508129212553172,-5.614673084875676
-[03:16:55] [Server thread/WARN]: Fabriciob05 moved too quickly! 8.064174496494502,-2.176759275064242,-6.026944058125764
-[03:17:44] [Server thread/WARN]: Fabriciob05 moved too quickly! 10.035021403452674,-0.17675927506424216,1.534619045221234
-[03:17:58] [Server thread/INFO]: Villager cmk['Villager'/10191, l='ServerLevel[world]', x=35.72, y=68.00, z=1413.53] died, message: 'Villager was slain by AgenteRetirado2'
-[03:18:07] [Server thread/WARN]: Fabriciob05 moved too quickly! 0.18022742777668554,-11.207870780463594,-0.5156000874194433
-[03:19:33] [Server thread/WARN]: Fabriciob05 moved too quickly! -7.799916925195248,2.170812908142299,-6.670708400175727
-[03:23:51] [Server thread/INFO]: Villager cmk['Fletcher'/11784, l='ServerLevel[world]', x=85.70, y=81.00, z=1482.31] died, message: 'Fletcher was slain by Zombie'
-[03:29:00] [Server thread/INFO]: Villager cmk['Leatherworker'/11499, l='ServerLevel[world]', x=62.50, y=73.00, z=1440.89] died, message: 'Leatherworker was slain by Zombie'
-[03:30:14] [Server thread/INFO]: Fabriciob05 lost connection: Timed out
-[03:30:14] [Server thread/INFO]: Fabriciob05 left the game
-[03:30:15] [Server thread/WARN]: handleDisconnection() called twice
-[03:30:24] [User Authenticator #4/INFO]: UUID of player Fabriciob05 is a8a53a94-ea10-4603-9c6f-2aba7e10ffa1
-[03:30:26] [Server thread/INFO]: Fabriciob05[/127.145.12.240:52529] logged in with entity id 20070 at (917.5025008094312, 53.0, 1362.699999988079)
-[03:30:26] [Server thread/INFO]: Fabriciob05 joined the game
-[03:33:32] [Server thread/WARN]: Fabriciob05 moved too quickly! -9.003997962020776,0.0,4.97851250601957
-[03:33:59] [Server thread/INFO]: Villager cmk['Weaponsmith'/10188, l='ServerLevel[world]', x=84.39, y=72.94, z=1418.70] died, message: 'Weaponsmith was slain by AgenteRetirado2'
-[03:35:13] [Server thread/WARN]: Fabriciob05 moved too quickly! -6.467296171260841,0.7477966597462711,7.640827645664103
-[03:37:30] [Server thread/INFO]: Knalla_13 has made the advancement [The Cutest Predator]
-[03:37:34] [Server thread/WARN]: Fabriciob05 moved too quickly! -3.9813970749112286,2.0013359791121417,-9.296617277840824
-[03:37:53] [Server thread/WARN]: Fabriciob05 moved too quickly! -10.059336160830526,-2.0,0.6957038885204838
-[03:38:03] [Server thread/WARN]: Fabriciob05 moved too quickly! -10.043063178503076,2.0,-0.712553457740114
-[03:38:20] [Server thread/INFO]: [Knalla_13: Teleported Knalla_13 to AgenteRetirado2]
-[03:39:00] [Server thread/WARN]: Fabriciob05 moved too quickly! -7.232511344715249,1.4524514780759716,-6.963453647590086
-[03:39:06] [Server thread/WARN]: Fabriciob05 moved too quickly! 0.0905463142353824,-0.36809686001799946,-10.327258632196617
-[03:39:12] [Server thread/INFO]: [Knalla_13: Teleported Fabriciob05 to Knalla_13]
-[03:43:30] [Server thread/WARN]: Fabriciob05 moved too quickly! 7.507198328538635,0.17675927506424216,-6.937819513979775
-[03:44:34] [Server thread/INFO]: <Knalla_13> Zzzz
-[03:44:55] [Server thread/INFO]: <Fabriciob05> zzz
-[03:48:29] [Server thread/INFO]: Fabriciob05 has made the advancement [Not Today, Thank You]
-[03:48:50] [Server thread/INFO]: Knalla_13 has made the advancement [What a Deal!]
-[04:00:52] [Server thread/INFO]: [Knalla_13: Teleported AgenteRetirado2 to Knalla_13]
-[04:04:36] [Server thread/INFO]: [Knalla_13: Teleported AgenteRetirado2 to Knalla_13]
-[04:16:57] [Server thread/INFO]: [Knalla_13: Teleported AgenteRetirado2 to Knalla_13]
-[04:17:01] [Server thread/WARN]: Fabriciob05 moved too quickly! -6.84359100766703,2.347953212069413,-7.029718742279783
-[04:24:43] [Server thread/INFO]: [Knalla_13: Teleported Knalla_13 to AgenteRetirado2]
-[04:26:44] [Server thread/INFO]: [Knalla_13: Teleported Knalla_13 to Fabriciob05]
-[04:27:17] [Server thread/INFO]: [Knalla_13: Teleported Knalla_13 to AgenteRetirado2]
+[17:12:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:12:26] [ServerMain/INFO]: Loaded 1290 recipes
+[17:12:26] [ServerMain/INFO]: Loaded 1399 advancements
+[17:12:26] [Server thread/INFO]: Starting minecraft server version 1.21
+[17:12:26] [Server thread/INFO]: Loading properties
+[17:12:26] [Server thread/INFO]: Default game type: SURVIVAL
+[17:12:26] [Server thread/INFO]: Generating keypair
+[17:12:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:12:26] [Server thread/INFO]: Using epoll channel type
+[17:12:26] [Server thread/INFO]: Preparing level "world"
+[17:12:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:12:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:12:30] [Server thread/INFO]: Time elapsed: 399 ms
+[17:12:30] [Server thread/INFO]: Done (3.251s)! For help, type "help"
+[17:13:20] [User Authenticator #1/INFO]: UUID of player Knalla_13 is 2e49a188-01f8-439a-a8b6-6f6c5221de06
+[17:13:22] [Server thread/INFO]: Knalla_13[/127.57.245.131:46319] logged in with entity id 5 at (87.90145214668568, 73.0, 1404.807750873576)
+[17:13:22] [Server thread/INFO]: Knalla_13 joined the game
+[17:13:48] [Server thread/INFO]: <Knalla_13> 81 1404
+[17:27:45] [Server thread/INFO]: Knalla_13 has made the advancement [Sneak 100]
+[17:31:10] [Server thread/INFO]: [Knalla_13: Teleported Knalla_13 to 81.500000, 72.000000, 1404.500000]
