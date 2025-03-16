@@ -20,6 +20,7 @@
       "minecraft:frozen_river": "2025-03-14 03:59:03 +0000",
       "minecraft:windswept_forest": "2025-03-15 04:14:34 +0000",
       "minecraft:deep_dark": "2025-03-16 05:05:14 +0000",
+      "minecraft:grove": "2025-03-16 05:28:26 +0000",
       "minecraft:snowy_beach": "2025-03-14 03:42:09 +0000",
       "minecraft:plains": "2025-03-14 04:10:07 +0000"
     },
@@ -160,6 +161,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-14 03:56:12 +0000",
+      "minecraft:breeze": "2025-03-16 05:31:58 +0000",
       "minecraft:zombie": "2025-03-14 03:43:33 +0000",
       "minecraft:creeper": "2025-03-15 04:17:39 +0000",
       "minecraft:husk": "2025-03-16 05:18:49 +0000"
@@ -1958,6 +1960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-03-16 05:32:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-03-16 05:16:01 +0000"
@@ -1997,6 +2005,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-03-16 05:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-16 05:29:35 +0000"
     },
     "done": true
   },
@@ -2042,6 +2056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-03-16 05:32:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
     "criteria": {
       "has_waxed_copper_block": "2025-03-16 05:16:01 +0000"
@@ -2051,6 +2071,12 @@
   "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-03-16 05:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-16 05:29:35 +0000"
     },
     "done": true
   },

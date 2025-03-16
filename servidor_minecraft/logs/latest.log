@@ -61,3 +61,10 @@
 [05:22:33] [Server thread/INFO]: AgenteRetirado2 has made the advancement [Under Lock and Key]
 [05:24:53] [Server thread/INFO]: Fabriciob05 has made the advancement [Under Lock and Key]
 [05:25:15] [Server thread/INFO]: Knalla_13 has made the advancement [Ol' Betsy]
+[05:34:57] [Server thread/INFO]: <Fabriciob05> 80 1422
+[05:35:04] [Server thread/INFO]: [Knalla_13: Teleported Knalla_13 to 80.500000, 72.000000, 1422.500000]
+[05:35:06] [Server thread/INFO]: [Knalla_13: Teleported AgenteRetirado2 to Knalla_13]
+[05:35:09] [Server thread/INFO]: [Knalla_13: Teleported Fabriciob05 to Knalla_13]
+[05:37:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=244, y=64, z=987} jd{x=244, y=62, z=987}
+[05:37:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=244, y=64, z=987} jd{x=244, y=62, z=987}
+[05:37:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=248, y=64, z=988} jd{x=249, y=62, z=988}

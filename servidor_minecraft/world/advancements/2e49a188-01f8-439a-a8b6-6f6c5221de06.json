@@ -19,6 +19,7 @@
       "minecraft:frozen_river": "2025-03-14 04:06:20 +0000",
       "minecraft:deep_dark": "2025-03-15 17:27:40 +0000",
       "minecraft:cherry_grove": "2025-03-15 17:24:00 +0000",
+      "minecraft:grove": "2025-03-16 05:28:10 +0000",
       "minecraft:meadow": "2025-03-15 17:17:03 +0000",
       "minecraft:snowy_beach": "2025-03-14 03:42:11 +0000",
       "minecraft:plains": "2025-03-14 04:10:01 +0000"
@@ -676,6 +677,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-14 04:02:05 +0000",
+      "minecraft:breeze": "2025-03-16 05:32:17 +0000",
       "minecraft:stray": "2025-03-14 03:56:55 +0000",
       "minecraft:spider": "2025-03-14 03:53:57 +0000",
       "minecraft:zombie": "2025-03-14 03:55:04 +0000",
@@ -1609,6 +1611,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-16 05:23:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-03-16 05:32:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-03-16 05:14:37 +0000"
@@ -1735,6 +1749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-03-16 05:32:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
     "criteria": {
       "has_waxed_copper_block": "2025-03-16 05:14:37 +0000"
@@ -1762,6 +1782,18 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-03-16 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-03-16 05:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
+    "criteria": {
+      "has_bolt_armor_trim_smithing_template": "2025-03-16 05:23:09 +0000"
     },
     "done": true
   },
