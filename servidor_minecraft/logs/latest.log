@@ -1,20 +1,36 @@
-[17:12:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:12:26] [ServerMain/INFO]: Loaded 1290 recipes
-[17:12:26] [ServerMain/INFO]: Loaded 1399 advancements
-[17:12:26] [Server thread/INFO]: Starting minecraft server version 1.21
-[17:12:26] [Server thread/INFO]: Loading properties
-[17:12:26] [Server thread/INFO]: Default game type: SURVIVAL
-[17:12:26] [Server thread/INFO]: Generating keypair
-[17:12:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:12:26] [Server thread/INFO]: Using epoll channel type
-[17:12:26] [Server thread/INFO]: Preparing level "world"
-[17:12:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:12:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:12:30] [Server thread/INFO]: Time elapsed: 399 ms
-[17:12:30] [Server thread/INFO]: Done (3.251s)! For help, type "help"
-[17:13:20] [User Authenticator #1/INFO]: UUID of player Knalla_13 is 2e49a188-01f8-439a-a8b6-6f6c5221de06
-[17:13:22] [Server thread/INFO]: Knalla_13[/127.57.245.131:46319] logged in with entity id 5 at (87.90145214668568, 73.0, 1404.807750873576)
-[17:13:22] [Server thread/INFO]: Knalla_13 joined the game
-[17:13:48] [Server thread/INFO]: <Knalla_13> 81 1404
-[17:27:45] [Server thread/INFO]: Knalla_13 has made the advancement [Sneak 100]
-[17:31:10] [Server thread/INFO]: [Knalla_13: Teleported Knalla_13 to 81.500000, 72.000000, 1404.500000]
+[04:57:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:57:34] [ServerMain/INFO]: Loaded 1290 recipes
+[04:57:35] [ServerMain/INFO]: Loaded 1399 advancements
+[04:57:35] [Server thread/INFO]: Starting minecraft server version 1.21
+[04:57:35] [Server thread/INFO]: Loading properties
+[04:57:35] [Server thread/INFO]: Default game type: SURVIVAL
+[04:57:35] [Server thread/INFO]: Generating keypair
+[04:57:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:57:36] [Server thread/INFO]: Using epoll channel type
+[04:57:36] [Server thread/INFO]: Preparing level "world"
+[04:57:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:57:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:57:39] [Worker-Main-2/INFO]: Preparing spawn area: 8%
+[04:57:40] [Server thread/INFO]: Time elapsed: 857 ms
+[04:57:40] [Server thread/INFO]: Done (4.054s)! For help, type "help"
+[04:57:47] [User Authenticator #1/INFO]: UUID of player Knalla_13 is 2e49a188-01f8-439a-a8b6-6f6c5221de06
+[04:57:49] [Server thread/INFO]: Knalla_13[/127.57.245.131:36013] logged in with entity id 5 at (89.59570318291101, 73.0, 1402.487500011921)
+[04:57:49] [Server thread/INFO]: Knalla_13 joined the game
+[04:58:17] [User Authenticator #2/INFO]: UUID of player AgenteRetirado2 is 768d5506-6af9-4db6-9806-4e931e445670
+[04:58:19] [Server thread/INFO]: AgenteRetirado2[/127.33.18.117:45409] logged in with entity id 255 at (90.30000001192093, 75.0, 1419.6367345470533)
+[04:58:19] [Server thread/INFO]: AgenteRetirado2 joined the game
+[05:00:54] [User Authenticator #3/INFO]: UUID of player Fabriciob05 is a8a53a94-ea10-4603-9c6f-2aba7e10ffa1
+[05:00:56] [Server thread/INFO]: Fabriciob05[/127.145.12.240:50139] logged in with entity id 610 at (89.05584016063165, 74.0, 1417.718587241236)
+[05:00:56] [Server thread/INFO]: Fabriciob05 joined the game
+[05:01:54] [Server thread/INFO]: <Knalla_13> 80 1422
+[05:01:55] [Server thread/INFO]: Villager cmk['Weaponsmith'/71, l='ServerLevel[world]', x=137.58, y=84.00, z=1436.25] died, message: 'Weaponsmith was slain by AgenteRetirado2'
+[05:02:13] [Server thread/WARN]: Fabriciob05 moved too quickly! 4.039747562477075,0.42355929454303975,9.247521154286005
+[05:02:53] [Server thread/WARN]: Fabriciob05 moved too quickly! -1.5929569181560055,-1.0784000015258783,9.83733298272864
+[05:02:57] [Server thread/WARN]: Fabriciob05 moved too quickly! 2.7158440024386152,-9.96454304183591,1.4336315233952064
+[05:03:36] [Server thread/WARN]: Fabriciob05 moved too quickly! 0.7796778627150616,-5.75945857744712,8.28330018499355
+[05:04:00] [Server thread/WARN]: Fabriciob05 moved too quickly! -0.7176581030934699,-10.277411153802234,-1.164132495203603
+[05:04:03] [Server thread/WARN]: Fabriciob05 moved too quickly! -0.9971563454259496,-11.06498040220228,-1.9852488113710933
+[05:04:38] [Server thread/WARN]: Fabriciob05 moved too quickly! -1.4781689309171355,-10.2662719232099,-0.8846213487040586
+[05:04:41] [Server thread/WARN]: Fabriciob05 moved too quickly! -0.4075172958327755,-8.339310489766678,-5.887811144317084
+[05:05:30] [Server thread/INFO]: Fabriciob05 has made the advancement [Sneak 100]
+[05:06:42] [Server thread/INFO]: AgenteRetirado2 has made the advancement [Sneak 100]
