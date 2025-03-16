@@ -18,6 +18,7 @@
       "minecraft:frozen_ocean": "2025-03-14 04:04:36 +0000",
       "minecraft:frozen_river": "2025-03-14 03:59:03 +0000",
       "minecraft:windswept_forest": "2025-03-15 04:14:34 +0000",
+      "minecraft:deep_dark": "2025-03-16 05:05:14 +0000",
       "minecraft:snowy_beach": "2025-03-14 03:42:09 +0000",
       "minecraft:plains": "2025-03-14 04:10:07 +0000"
     },
@@ -1922,6 +1923,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-03-15 04:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-16 05:06:42 +0000"
     },
     "done": true
   },

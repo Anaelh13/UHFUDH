@@ -15,6 +15,7 @@
       "minecraft:snowy_taiga": "2025-03-14 04:17:57 +0000",
       "minecraft:dripstone_caves": "2025-03-14 04:29:25 +0000",
       "minecraft:frozen_river": "2025-03-14 04:18:47 +0000",
+      "minecraft:deep_dark": "2025-03-16 05:05:13 +0000",
       "minecraft:cherry_grove": "2025-03-15 03:06:12 +0000",
       "minecraft:sunflower_plains": "2025-03-15 03:06:02 +0000",
       "minecraft:birch_forest": "2025-03-15 03:17:44 +0000",
@@ -1544,6 +1545,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-03-15 04:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-16 05:05:30 +0000"
     },
     "done": true
   },
