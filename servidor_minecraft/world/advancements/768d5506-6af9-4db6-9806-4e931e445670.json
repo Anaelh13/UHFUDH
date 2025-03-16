@@ -162,6 +162,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-14 03:56:12 +0000",
       "minecraft:breeze": "2025-03-16 05:31:58 +0000",
+      "minecraft:spider": "2025-03-16 06:31:38 +0000",
       "minecraft:zombie": "2025-03-14 03:43:33 +0000",
       "minecraft:creeper": "2025-03-15 04:17:39 +0000",
       "minecraft:husk": "2025-03-16 05:18:49 +0000"
@@ -1978,6 +1979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-16 06:06:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-03-16 05:39:12 +0000"
@@ -2041,6 +2048,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-03-16 05:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-16 06:13:19 +0000"
     },
     "done": true
   },
@@ -2113,6 +2126,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-03-16 05:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-16 06:06:56 +0000"
     },
     "done": true
   },
