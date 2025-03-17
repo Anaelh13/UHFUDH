@@ -78,3 +78,19 @@
 [03:10:33] [Server thread/INFO]: <AgenteRetirado2> zzz}
 [03:10:53] [Server thread/INFO]: <Knalla_13> Zzzzz
 [03:12:02] [Server thread/INFO]: Villager cmk['Villager'/93, l='ServerLevel[world]', x=50.38, y=72.00, z=1467.56] died, message: 'Villager was slain by AgenteRetirado2'
+[03:15:15] [Server thread/WARN]: Fabriciob05 moved too quickly! -7.673903115129917,-3.0,5.913878484078623
+[03:15:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=167, y=88, z=1415} jd{x=165, y=89, z=1415}
+[03:15:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=167, y=88, z=1415} jd{x=165, y=89, z=1415}
+[03:19:58] [Server thread/WARN]: Fabriciob05 moved too quickly! 7.616266309818286,-2.7698121815251255,5.99347777185335
+[03:20:11] [Server thread/WARN]: Fabriciob05 moved too quickly! -6.241131371780426,4.001335979112142,-6.935063993263839
+[03:20:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=158, y=91, z=1408} jd{x=158, y=90, z=1409}
+[03:20:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=158, y=91, z=1408} jd{x=158, y=90, z=1409}
+[03:20:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=158, y=91, z=1408} jd{x=158, y=90, z=1409}
+[03:20:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=158, y=91, z=1408} jd{x=158, y=90, z=1409}
+[03:20:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=158, y=91, z=1408} jd{x=158, y=90, z=1409}
+[03:20:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=158, y=91, z=1408} jd{x=158, y=90, z=1409}
+[03:20:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=158, y=91, z=1408} jd{x=158, y=90, z=1409}
+[03:20:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=158, y=91, z=1408} jd{x=158, y=90, z=1409}
+[03:20:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=157, y=89, z=1409} jd{x=158, y=90, z=1409}
+[03:20:57] [Server thread/WARN]: Fabriciob05 moved too quickly! -8.955569165640838,-0.2468000194787976,4.8790231739601495
+[03:22:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=107, y=81, z=1469} jd{x=106, y=79, z=1468}
