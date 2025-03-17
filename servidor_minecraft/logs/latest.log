@@ -144,3 +144,30 @@
 [04:00:35] [Server thread/INFO]: [Knalla_13: Set own game mode to Spectator Mode]
 [04:00:42] [Server thread/WARN]: Fabriciob05 moved too quickly! -8.270398080929287,-0.0013359791121487774,5.733299183371855
 [04:01:12] [Server thread/INFO]: [Knalla_13: Set own game mode to Survival Mode]
+[04:04:08] [Server thread/INFO]: [Knalla_13: Teleported Knalla_13 to 80.500000, 72.000000, 1422.500000]
+[04:04:13] [Server thread/INFO]: [Knalla_13: Teleported AgenteRetirado2 to Knalla_13]
+[04:05:30] [Server thread/WARN]: AgenteRetirado2 moved too quickly! -7.7954067837281436,2.0013359791121417,6.223896131086576
+[04:06:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=167, y=100, z=1404} jd{x=168, y=100, z=1400}
+[04:06:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=167, y=100, z=1404} jd{x=168, y=100, z=1400}
+[04:06:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=167, y=100, z=1404} jd{x=168, y=100, z=1400}
+[04:06:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=167, y=100, z=1404} jd{x=168, y=100, z=1400}
+[04:06:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=164, y=98, z=1398} jd{x=164, y=97, z=1398}
+[04:06:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=164, y=98, z=1398} jd{x=166, y=98, z=1398}
+[04:07:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=170, y=96, z=1406} jd{x=170, y=94, z=1405}
+[04:07:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=170, y=94, z=1405} jd{x=169, y=95, z=1405}
+[04:07:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=170, y=94, z=1405} jd{x=169, y=95, z=1405}
+[04:07:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=170, y=97, z=1406} jd{x=169, y=95, z=1405}
+[04:07:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=184, y=90, z=1410} jd{x=184, y=90, z=1409}
+[04:07:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=182, y=91, z=1408} jd{x=182, y=91, z=1406}
+[04:07:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=182, y=91, z=1408} jd{x=182, y=91, z=1406}
+[04:07:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=182, y=91, z=1408} jd{x=182, y=91, z=1406}
+[04:07:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=178, y=92, z=1409} jd{x=181, y=92, z=1408}
+[04:08:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=174, y=97, z=1400} jd{x=174, y=96, z=1399}
+[04:08:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=182, y=88, z=1408} jd{x=181, y=88, z=1408}
+[04:08:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=173, y=87, z=1405} jd{x=174, y=88, z=1407}
+[04:10:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=62, z=1365} jd{x=13, y=61, z=1365}
+[04:10:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=62, z=1365} jd{x=13, y=61, z=1365}
+[04:10:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=62, z=1365} jd{x=13, y=61, z=1365}
+[04:10:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=62, z=1365} jd{x=13, y=61, z=1365}
+[04:11:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=65, y=61, z=1318} jd{x=66, y=59, z=1318}
+[04:11:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=65, y=61, z=1317} jd{x=66, y=59, z=1318}
