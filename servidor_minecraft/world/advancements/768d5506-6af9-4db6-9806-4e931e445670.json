@@ -2135,5 +2135,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-17 03:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-17 03:08:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
