@@ -679,6 +679,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-19 05:52:39 +0000",
       "minecraft:cave_spider": "2025-03-17 03:59:04 +0000",
       "minecraft:skeleton": "2025-03-14 04:02:05 +0000",
       "minecraft:breeze": "2025-03-16 05:32:17 +0000",
@@ -2177,6 +2178,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-03-19 04:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-19 05:52:39 +0000"
     },
     "done": true
   },
