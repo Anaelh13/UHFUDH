@@ -7,9 +7,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-03-19 05:47:28 +0000",
       "minecraft:flower_forest": "2025-03-15 03:13:27 +0000",
       "minecraft:snowy_slopes": "2025-03-16 05:14:50 +0000",
       "minecraft:beach": "2025-03-15 03:52:32 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-03-19 05:39:07 +0000",
       "minecraft:forest": "2025-03-15 03:16:38 +0000",
       "minecraft:taiga": "2025-03-19 05:18:35 +0000",
       "minecraft:river": "2025-03-14 04:21:54 +0000",
@@ -2589,6 +2591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-03-19 05:39:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-19 05:22:07 +0000"
@@ -2619,9 +2627,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-19 05:39:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-03-19 05:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-19 05:39:29 +0000"
     },
     "done": true
   },
