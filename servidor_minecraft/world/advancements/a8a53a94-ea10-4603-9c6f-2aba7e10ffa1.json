@@ -1026,6 +1026,7 @@
       "minecraft:spider": "2025-03-14 04:38:04 +0000",
       "minecraft:zombie": "2025-03-14 04:48:16 +0000",
       "minecraft:creeper": "2025-03-15 04:14:10 +0000",
+      "minecraft:zombie_villager": "2025-03-19 05:59:58 +0000",
       "minecraft:husk": "2025-03-16 05:21:38 +0000",
       "minecraft:slime": "2025-03-14 04:48:52 +0000"
     },
@@ -2537,9 +2538,21 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-19 06:01:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-03-19 04:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-19 06:16:21 +0000"
     },
     "done": true
   },

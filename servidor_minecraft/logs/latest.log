@@ -1,242 +1,32 @@
-[04:18:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:18:11] [ServerMain/INFO]: Loaded 1290 recipes
-[04:18:11] [ServerMain/INFO]: Loaded 1399 advancements
-[04:18:12] [Server thread/INFO]: Starting minecraft server version 1.21
-[04:18:12] [Server thread/INFO]: Loading properties
-[04:18:12] [Server thread/INFO]: Default game type: SURVIVAL
-[04:18:12] [Server thread/INFO]: Generating keypair
-[04:18:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:18:12] [Server thread/INFO]: Using epoll channel type
-[04:18:12] [Server thread/INFO]: Preparing level "world"
-[04:18:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:18:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:18:16] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[04:18:16] [Server thread/INFO]: Time elapsed: 968 ms
-[04:18:16] [Server thread/INFO]: Done (4.215s)! For help, type "help"
-[04:18:33] [User Authenticator #1/INFO]: UUID of player Knalla_13 is 2e49a188-01f8-439a-a8b6-6f6c5221de06
-[04:18:35] [Server thread/INFO]: Knalla_13[/127.57.245.131:36905] logged in with entity id 5 at (156.36080329815306, 88.0, 1409.6985599967431)
-[04:18:35] [Server thread/INFO]: Knalla_13 joined the game
-[04:19:33] [User Authenticator #2/INFO]: UUID of player Fabriciob05 is a8a53a94-ea10-4603-9c6f-2aba7e10ffa1
-[04:19:35] [Server thread/INFO]: Fabriciob05[/127.145.12.240:48639] logged in with entity id 601 at (203.6416367614602, -50.23363200604248, 1445.2692668050786)
-[04:19:35] [Server thread/INFO]: Fabriciob05 joined the game
-[04:21:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=166, y=90, z=1410} jd{x=164, y=90, z=1408}
-[04:21:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=166, y=90, z=1410} jd{x=164, y=90, z=1408}
-[04:21:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=166, y=90, z=1410} jd{x=164, y=90, z=1408}
-[04:21:58] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.99512957743903,-1.0,0.2881823962695762
-[04:26:45] [Server thread/INFO]: [Knalla_13: Teleported Fabriciob05 to Knalla_13]
-[04:27:10] [Server thread/WARN]: Fabriciob05 moved too quickly! 4.707592949340821,-0.001335979112141672,9.037290310213166
-[04:28:15] [Server thread/WARN]: Fabriciob05 moved too quickly! -5.044447394186776,-1.3275870802705612,-8.612136576613011
-[04:28:58] [Server thread/WARN]: Fabriciob05 moved too quickly! -7.927735806504813,3.0724278036804407,-5.392638497997268
-[04:29:40] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.601624231175037,-1.2491870787446828,2.7929863774184014
-[04:31:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=169, y=91, z=1405} jd{x=173, y=92, z=1402}
-[04:32:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=199, y=92, z=1406} jd{x=183, y=90, z=1404}
-[04:33:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=189, y=89, z=1407} jd{x=189, y=88, z=1408}
-[04:33:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=189, y=89, z=1407} jd{x=189, y=88, z=1408}
-[04:33:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=189, y=89, z=1407} jd{x=189, y=88, z=1408}
-[04:33:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=189, y=89, z=1407} jd{x=189, y=88, z=1408}
-[04:33:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=189, y=89, z=1407} jd{x=189, y=88, z=1408}
-[04:33:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=189, y=89, z=1407} jd{x=189, y=88, z=1408}
-[04:33:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=189, y=89, z=1407} jd{x=189, y=88, z=1408}
-[04:33:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=189, y=89, z=1407} jd{x=189, y=88, z=1408}
-[04:33:13] [Server thread/INFO]: Knalla_13 fell from a high place
-[04:33:36] [Server thread/INFO]: [Knalla_13: Set own game mode to Spectator Mode]
-[04:33:56] [Server thread/INFO]: [Knalla_13: Set own game mode to Survival Mode]
-[04:34:25] [Server thread/INFO]: [Knalla_13: Set own game mode to Spectator Mode]
-[04:34:41] [Server thread/INFO]: [Knalla_13: Set own game mode to Survival Mode]
-[04:35:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=171, y=88, z=1404} jd{x=181, y=89, z=1407}
-[04:35:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=171, y=88, z=1404} jd{x=181, y=89, z=1407}
-[04:36:46] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.440438546489645,1.0,-3.2402724489077173
-[04:40:03] [Server thread/WARN]: Fabriciob05 moved too quickly! 8.980376042622694,2.1661092609382138,4.035523986919543
-[04:40:10] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.232244557792058,1.6319031399820005,-4.287444873062441
-[04:41:57] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.512084588409664,-0.7967356006687112,3.3632534310122537
-[04:42:29] [Server thread/WARN]: Fabriciob05 moved too quickly! -4.89272220727193,0.623264386218267,-8.86818648364192
-[04:42:34] [Server thread/WARN]: Fabriciob05 moved too quickly! -9.894397008641093,-1.7539862017387549,-1.8789205356383718
-[04:43:06] [Server thread/WARN]: Fabriciob05 moved too quickly! 5.476089258152882,-0.24918707874468282,8.468999190034538
-[04:43:26] [Server thread/WARN]: Fabriciob05 moved too quickly! 5.338097767485081,1.0,8.580414318945714
-[04:43:31] [Server thread/WARN]: Fabriciob05 moved too quickly! 7.32294613472132,-0.023088109101550458,6.882603551469856
-[04:43:35] [Server thread/WARN]: Fabriciob05 was kicked for floating too long!
-[04:43:35] [Server thread/INFO]: Fabriciob05 lost connection: Flying is not enabled on this server
-[04:43:35] [Server thread/INFO]: Fabriciob05 left the game
-[04:43:35] [Server thread/WARN]: handleDisconnection() called twice
-[04:43:55] [User Authenticator #3/INFO]: UUID of player Fabriciob05 is a8a53a94-ea10-4603-9c6f-2aba7e10ffa1
-[04:43:57] [Server thread/INFO]: Fabriciob05[/127.145.12.240:60957] logged in with entity id 8122 at (112.54306966302849, 79.7531999805212, 1452.7310098282908)
-[04:43:57] [Server thread/INFO]: Fabriciob05 joined the game
-[04:44:09] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.827092089212016,1.0013359791121417,-1.8410295524399771
-[04:46:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=152, y=92, z=1387} jd{x=151, y=91, z=1388}
-[04:46:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=153, y=90, z=1376} jd{x=149, y=93, z=1376}
-[04:46:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=153, y=90, z=1376} jd{x=149, y=93, z=1376}
-[04:46:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=178, y=91, z=1376} jd{x=181, y=92, z=1376}
-[04:46:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=178, y=91, z=1376} jd{x=181, y=92, z=1376}
-[04:46:35] [Server thread/INFO]: [Knalla_13: Set own game mode to Spectator Mode]
-[04:46:54] [Server thread/INFO]: [Knalla_13: Set own game mode to Survival Mode]
-[04:47:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=165, y=95, z=1382} jd{x=163, y=90, z=1382}
-[04:47:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=170, y=94, z=1382} jd{x=169, y=90, z=1382}
-[04:47:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=169, y=95, z=1382} jd{x=169, y=90, z=1382}
-[04:47:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=170, y=95, z=1382} jd{x=169, y=90, z=1382}
-[04:47:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=162, y=92, z=1383} jd{x=163, y=92, z=1383}
-[04:47:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=92, z=1383} jd{x=163, y=93, z=1383}
-[04:48:46] [Server thread/WARN]: Fabriciob05 moved too quickly! -10.003649712575822,0.9215999984741217,1.93094452008404
-[04:48:58] [Server thread/WARN]: Fabriciob05 moved too quickly! 1.678721426288007,0.8322033533667508,9.971217758728471
-[04:49:40] [Server thread/WARN]: Fabriciob05 moved too quickly! -5.048970317425571,1.003016261509046,8.618244928269178
-[04:49:47] [Server thread/WARN]: Fabriciob05 moved too quickly! -8.716219649693485,1.0,5.009960857018086
-[04:50:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=212, y=90, z=1376} jd{x=211, y=90, z=1376}
-[04:50:40] [Server thread/WARN]: Fabriciob05 moved too quickly! -9.618514637859093,3.0013359791121417,-0.7555467379845595
-[04:50:46] [Server thread/WARN]: Fabriciob05 moved too quickly! -9.064573319993798,-1.1767592750642422,4.657221723799012
-[04:51:28] [Server thread/WARN]: Fabriciob05 moved too quickly! -8.748993655273544,-2.9245559348105132,-4.116476069394366
-[04:51:32] [Server thread/INFO]: [Knalla_13: Set own game mode to Spectator Mode]
-[04:51:34] [Server thread/WARN]: Fabriciob05 moved too quickly! -8.611935879345982,-2.087045657717681,-5.020319318104384
-[04:51:41] [Server thread/WARN]: Fabriciob05 moved too quickly! 1.785825680035436,-0.32352912385572097,-10.065611164741313
-[04:52:07] [Server thread/INFO]: [Knalla_13: Set own game mode to Survival Mode]
-[04:54:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=199, y=95, z=1378} jd{x=198, y=95, z=1377}
-[04:57:41] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.242354924645099,-0.5061351021062137,-4.406664485076135
-[04:58:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=192, y=99, z=1381} jd{x=193, y=98, z=1381}
-[04:58:16] [Server thread/WARN]: Fabriciob05 moved too quickly! -8.752177736743732,1.252203340253729,-5.196637688609826
-[04:58:22] [Server thread/WARN]: Fabriciob05 moved too quickly! -4.422594784034018,-1.959360251961371,-8.91700332926439
-[04:58:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=213, y=87, z=1381} jd{x=215, y=91, z=1381}
-[04:59:46] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.862179448471139,1.0244240882136921,-1.805522608594174
-[04:59:58] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.801441042489728,-2.090061919226727,2.2159587560449836
-[05:00:51] [Server thread/WARN]: Fabriciob05 moved too quickly! -0.09417233296363747,-0.2046003784434305,-10.221167218166329
-[05:01:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=191, y=100, z=1392} jd{x=193, y=97, z=1392}
-[05:01:34] [Server thread/WARN]: Fabriciob05 moved too quickly! 0.3282826824363667,0.0448124203990119,10.243012722247158
-[05:02:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=212, y=90, z=1388} jd{x=213, y=87, z=1383}
-[05:02:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=212, y=90, z=1388} jd{x=213, y=87, z=1383}
-[05:02:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=212, y=90, z=1388} jd{x=213, y=87, z=1383}
-[05:02:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=212, y=90, z=1388} jd{x=213, y=87, z=1383}
-[05:02:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=211, y=90, z=1389} jd{x=211, y=88, z=1388}
-[05:05:46] [Server thread/WARN]: Fabriciob05 moved too quickly! 8.949878972738418,-0.16610926093821377,4.817882903158306
-[05:07:15] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.998286951089483,-0.7531999805212024,0.4980900145499163
-[05:08:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=206, y=95, z=1392} jd{x=207, y=92, z=1391}
-[05:08:49] [Server thread/WARN]: Fabriciob05 moved too quickly! 8.91852769363544,-1.2491870787446828,-4.615511875498669
-[05:08:52] [Server thread/WARN]: Fabriciob05 moved too quickly! 8.60334973630097,0.0,-5.416798227900927
-[05:09:04] [Server thread/WARN]: Fabriciob05 moved too quickly! 4.459239556319034,-1.376735613781733,-9.03110144159632
-[05:09:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=184, y=89, z=1400} jd{x=183, y=89, z=1399}
-[05:09:16] [Server thread/WARN]: Fabriciob05 moved too quickly! -7.226866750749309,0.17675927506424216,-7.378189454572748
-[05:09:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=192, y=91, z=1401} jd{x=192, y=88, z=1400}
-[05:09:40] [Server thread/WARN]: Fabriciob05 moved too quickly! 7.9350026406178245,-1.127890238205481,-6.413473169490544
-[05:10:46] [Server thread/WARN]: Fabriciob05 moved too quickly! 0.9079377888390354,1.1767592750642422,-10.075498846182654
-[05:11:10] [Server thread/WARN]: Fabriciob05 moved too quickly! 10.217235362773181,0.8322033533667508,0.007595354315299119
-[05:11:16] [Server thread/WARN]: Fabriciob05 moved too quickly! 10.200126467950327,1.1661092609382138,-0.020410836203609506
-[05:11:46] [Server thread/WARN]: Fabriciob05 moved too quickly! 3.1518669428273256,1.15233518685055,-9.667992432655865
-[05:12:21] [Server thread/WARN]: Fabriciob05 moved too quickly! 7.973994625885666,-0.36809686001799946,-6.214878925894936
-[05:13:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=192, y=97, z=1389} jd{x=192, y=94, z=1387}
-[05:14:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=200, y=93, z=1396} jd{x=197, y=90, z=1394}
-[05:14:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=200, y=93, z=1396} jd{x=197, y=90, z=1394}
-[05:14:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=200, y=93, z=1396} jd{x=197, y=90, z=1394}
-[05:14:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=200, y=93, z=1396} jd{x=197, y=90, z=1394}
-[05:14:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=200, y=93, z=1396} jd{x=197, y=90, z=1394}
-[05:14:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=200, y=93, z=1396} jd{x=197, y=90, z=1394}
-[05:14:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=200, y=93, z=1396} jd{x=197, y=90, z=1394}
-[05:14:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=200, y=93, z=1396} jd{x=197, y=90, z=1394}
-[05:14:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=200, y=93, z=1396} jd{x=197, y=90, z=1394}
-[05:14:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=200, y=93, z=1396} jd{x=197, y=90, z=1394}
-[05:14:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=200, y=93, z=1396} jd{x=197, y=90, z=1394}
-[05:14:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=200, y=93, z=1396} jd{x=197, y=90, z=1394}
-[05:14:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=200, y=93, z=1396} jd{x=197, y=90, z=1394}
-[05:14:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=93, z=1394} jd{x=174, y=92, z=1397}
-[05:15:03] [Server thread/WARN]: Fabriciob05 moved too quickly! -0.21716258003505118,-1.1767592750642422,9.97050111459771
-[05:15:09] [Server thread/WARN]: Fabriciob05 moved too quickly! -9.133278055862775,-1.0435356201475088,-4.584255755032018
-[05:15:22] [Server thread/WARN]: Fabriciob05 moved too quickly! 0.674841350044062,-1.0244240882136921,-10.090358217181574
-[05:15:30] [Server thread/WARN]: Fabriciob05 moved too quickly! 5.02858896373516,0.756759288177264,-8.631647731239127
-[05:15:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=160, y=95, z=1386} jd{x=161, y=93, z=1385}
-[05:15:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=160, y=95, z=1386} jd{x=161, y=93, z=1385}
-[05:15:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=160, y=95, z=1386} jd{x=161, y=93, z=1385}
-[05:15:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=160, y=95, z=1386} jd{x=161, y=93, z=1385}
-[05:15:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=160, y=95, z=1386} jd{x=161, y=93, z=1385}
-[05:15:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=160, y=95, z=1386} jd{x=161, y=93, z=1385}
-[05:15:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=160, y=95, z=1386} jd{x=161, y=93, z=1385}
-[05:15:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=160, y=95, z=1386} jd{x=161, y=93, z=1385}
-[05:15:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=160, y=95, z=1386} jd{x=161, y=93, z=1385}
-[05:15:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=183, y=92, z=1385} jd{x=181, y=91, z=1385}
-[05:17:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=194, y=95, z=1393} jd{x=197, y=94, z=1393}
-[05:17:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=194, y=95, z=1393} jd{x=197, y=94, z=1393}
-[05:17:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=194, y=96, z=1387} jd{x=194, y=94, z=1388}
-[05:17:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=200, y=92, z=1392} jd{x=201, y=92, z=1393}
-[05:17:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=200, y=92, z=1392} jd{x=201, y=92, z=1393}
-[05:17:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=200, y=92, z=1392} jd{x=201, y=92, z=1393}
-[05:17:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=200, y=92, z=1392} jd{x=201, y=92, z=1393}
-[05:17:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=201, y=90, z=1392} jd{x=201, y=90, z=1393}
-[05:17:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=201, y=90, z=1392} jd{x=201, y=90, z=1393}
-[05:17:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=183, y=97, z=1389} jd{x=184, y=97, z=1388}
-[05:18:16] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.958424833727008,2.252203340253729,0.6530554966035425
-[05:18:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=165, y=96, z=1397} jd{x=159, y=96, z=1396}
-[05:18:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=165, y=96, z=1397} jd{x=159, y=96, z=1396}
-[05:18:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=165, y=96, z=1397} jd{x=159, y=96, z=1396}
-[05:18:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=165, y=96, z=1397} jd{x=159, y=96, z=1396}
-[05:19:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=161, y=93, z=1390} jd{x=162, y=93, z=1391}
-[05:20:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=176, y=92, z=1394} jd{x=176, y=91, z=1393}
-[05:20:16] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.368089524316247,0.9247991098810502,-4.289141366437548
-[05:20:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=178, y=92, z=1392} jd{x=183, y=92, z=1395}
-[05:20:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=183, y=92, z=1395} jd{x=183, y=91, z=1395}
-[05:20:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=183, y=92, z=1395} jd{x=183, y=91, z=1395}
-[05:20:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=183, y=92, z=1395} jd{x=183, y=91, z=1395}
-[05:20:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=183, y=92, z=1395} jd{x=183, y=91, z=1395}
-[05:20:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=185, y=90, z=1383} jd{x=185, y=88, z=1382}
-[05:20:41] [Server thread/WARN]: Fabriciob05 moved too quickly! 4.754813676823574,2.1661092609382138,-8.803532214210463
-[05:20:51] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.961169704571603,-0.2522033402537289,1.3262336177909901
-[05:21:07] [Server thread/WARN]: Fabriciob05 moved too quickly! 8.108182489360388,0.9215999984741217,-5.999230463845265
-[05:23:45] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.938034595146519,-2.0,-1.7580839308295708
-[05:24:04] [Server thread/WARN]: Fabriciob05 moved too quickly! 2.218277803523165,2.7531999805212024,9.672178291669411
-[05:24:51] [Server thread/WARN]: Fabriciob05 moved too quickly! -7.798093834043129,-3.35492884658167,-5.446677257618603
-[05:24:58] [Server thread/WARN]: Fabriciob05 moved too quickly! -8.811626377231619,-2.115840638157577,-4.984909880235591
-[05:27:12] [Server thread/WARN]: Fabriciob05 moved too quickly! 8.87942862297325,-1.2522033402537218,-4.484546564253378
-[05:28:33] [Server thread/WARN]: Fabriciob05 moved too quickly! -4.495202962508074,1.2522033402537218,-8.973183119714463
-[05:28:40] [Server thread/WARN]: Fabriciob05 moved too quickly! -0.18347772080983304,-1.8245767040479066,10.147716992439882
-[05:30:46] [Server thread/WARN]: Fabriciob05 moved too quickly! 1.1789706036614689,-5.003967839911226,9.007963656068455
-[05:31:15] [Server thread/WARN]: Fabriciob05 moved too quickly! -1.9967973581150318,-2.0,-9.636544627575972
-[05:31:22] [Server thread/WARN]: Fabriciob05 moved too quickly! 4.267242848027308,2.1661092609382138,-8.964979734679787
-[05:31:58] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.979684603707824,-0.4641593749554431,1.634663005608104
-[05:32:58] [Server thread/WARN]: Fabriciob05 moved too quickly! -7.326508250248594,0.0,-7.070790371480939
-[05:34:46] [Server thread/WARN]: Fabriciob05 moved too quickly! 4.725074294620185,-1.796735600668697,8.723334249340041
-[05:34:55] [Server thread/INFO]: [Knalla_13: Gave 1 [Diamond Pickaxe] to Knalla_13]
-[05:34:58] [Server thread/WARN]: Fabriciob05 moved too quickly! -4.585347661338687,1.534844196370507,-9.017004344771863
-[05:35:22] [Server thread/WARN]: Fabriciob05 moved too quickly! -9.92599764881345,2.024424088213685,0.9125563228309375
-[05:35:55] [Server thread/WARN]: Fabriciob05 moved too quickly! -1.4112547651388923,1.0445092147803763,-9.939297098869247
-[05:36:07] [Server thread/INFO]: [Knalla_13: Gave 1 [Diamond Pickaxe] to Knalla_13]
-[05:36:57] [Server thread/WARN]: Fabriciob05 moved too quickly! -8.813585250731649,1.7461092740512356,4.8337509100070974
-[05:39:02] [Server thread/WARN]: Fabriciob05 moved too quickly! -8.359286653047661,2.419999986886978,5.385244709795984
-[05:39:39] [Server thread/INFO]: [Knalla_13: Gave 1 [Diamond Pickaxe] to Knalla_13]
-[05:39:52] [Server thread/INFO]: Knalla_13 fell from a high place
-[05:39:56] [Server thread/INFO]: [Knalla_13: Gave 1 [Diamond Pickaxe] to Knalla_13]
-[05:40:01] [Server thread/INFO]: [Knalla_13: Set own game mode to Spectator Mode]
-[05:40:20] [Server thread/INFO]: [Knalla_13: Set own game mode to Survival Mode]
-[05:40:40] [Server thread/WARN]: Fabriciob05 moved too quickly! -9.349347132812795,-2.2866535462998723,-2.885610825639219
-[05:41:05] [Server thread/INFO]: [Knalla_13: Set own game mode to Spectator Mode]
-[05:41:09] [Server thread/WARN]: Fabriciob05 moved too quickly! -8.459273264109925,-0.49598709822347686,-5.463398946220082
-[05:41:13] [Server thread/INFO]: [Knalla_13: Set own game mode to Survival Mode]
-[05:41:17] [Server thread/INFO]: Knalla_13 has made the advancement [Hot Stuff]
-[05:41:57] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.268574743487079,-1.752148900367466,4.154401219880242
-[05:42:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=194, y=90, z=1378} jd{x=193, y=91, z=1377}
-[05:42:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=195, y=90, z=1379} jd{x=193, y=91, z=1377}
-[05:42:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=195, y=90, z=1379} jd{x=193, y=91, z=1377}
-[05:42:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=195, y=90, z=1381} jd{x=195, y=88, z=1381}
-[05:42:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=195, y=90, z=1380} jd{x=195, y=88, z=1381}
-[05:42:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=195, y=90, z=1380} jd{x=195, y=88, z=1381}
-[05:42:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=195, y=89, z=1380} jd{x=195, y=88, z=1381}
-[05:42:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=195, y=89, z=1380} jd{x=195, y=88, z=1381}
-[05:42:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=195, y=89, z=1380} jd{x=195, y=88, z=1381}
-[05:42:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=197, y=90, z=1382} jd{x=198, y=89, z=1382}
-[05:42:22] [Server thread/WARN]: Fabriciob05 moved too quickly! 10.131255988926455,-0.043535620147491016,1.3640558622199705
-[05:44:46] [Server thread/WARN]: Fabriciob05 moved too quickly! -9.773082475823571,-0.49520087700591375,-2.7191587938120847
-[05:45:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=182, y=88, z=1401} jd{x=183, y=88, z=1400}
-[05:45:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=182, y=88, z=1401} jd{x=183, y=88, z=1400}
-[05:45:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=182, y=88, z=1401} jd{x=183, y=88, z=1400}
-[05:45:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=182, y=88, z=1401} jd{x=183, y=88, z=1400}
-[05:45:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=182, y=88, z=1401} jd{x=183, y=88, z=1400}
-[05:45:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=182, y=88, z=1401} jd{x=183, y=88, z=1400}
-[05:46:28] [Server thread/WARN]: Fabriciob05 moved too quickly! 1.607223996941002,10.126110927225465,1.2106081214177493
-[05:46:46] [Server thread/WARN]: Fabriciob05 moved too quickly! -9.34057259012593,3.1767592750642386,-2.490050428650875
-[05:47:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=173, y=88, z=1388} jd{x=174, y=88, z=1386}
-[05:47:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=173, y=88, z=1388} jd{x=174, y=88, z=1386}
-[05:47:46] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.474748545741136,-0.24324071182273954,3.61111549885311
-[05:47:52] [Server thread/WARN]: Fabriciob05 moved too quickly! 10.133149328480954,0.0,-0.1291903843880391
-[05:48:35] [Server thread/INFO]: [Knalla_13: Gave 1 [Diamond Pickaxe] to Knalla_13]
-[05:51:46] [Server thread/WARN]: Fabriciob05 moved too quickly! -9.6993576788459,-0.5684761547292716,-3.324800534741712
-[05:51:49] [Server thread/INFO]: [Knalla_13: Gave 1 [Diamond Pickaxe] to Knalla_13]
-[05:52:04] [Server thread/WARN]: Fabriciob05 moved too quickly! -10.033099654646435,1.365106639854904,1.290982555056985
-[05:52:39] [Server thread/INFO]: Knalla_13 has made the advancement [Voluntary Exile]
-[05:52:48] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.057485576907993,-1.7531999805212024,4.078968491020078
-[05:52:58] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.926317630726544,0.6709083839323018,2.152768502824415
-[05:55:27] [Server thread/WARN]: Fabriciob05 moved too quickly! -6.447133659039196,3.075444065189486,7.193641735630308
-[05:56:28] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.007006822893686,0.12129684053918965,-4.581746965304319
-[05:56:32] [Server thread/INFO]: [Knalla_13: Gave 1 [Diamond Pickaxe] to Knalla_13]
-[05:57:46] [Server thread/WARN]: Fabriciob05 moved too quickly! 9.162954325244641,3.252203340253722,-2.804637522559915
+[03:21:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:21:31] [ServerMain/INFO]: Loaded 1290 recipes
+[03:21:32] [ServerMain/INFO]: Loaded 1399 advancements
+[03:21:32] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:21:32] [Server thread/INFO]: Loading properties
+[03:21:32] [Server thread/INFO]: Default game type: SURVIVAL
+[03:21:32] [Server thread/INFO]: Generating keypair
+[03:21:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:21:33] [Server thread/INFO]: Using epoll channel type
+[03:21:33] [Server thread/INFO]: Preparing level "world"
+[03:21:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:21:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:21:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:21:36] [Server thread/INFO]: Time elapsed: 582 ms
+[03:21:36] [Server thread/INFO]: Done (3.786s)! For help, type "help"
+[03:22:00] [User Authenticator #1/INFO]: UUID of player Knalla_13 is 2e49a188-01f8-439a-a8b6-6f6c5221de06
+[03:22:02] [Server thread/INFO]: Knalla_13[/127.246.198.48:60843] logged in with entity id 5 at (104.63604674123712, 77.0, 1401.4753030955587)
+[03:22:02] [Server thread/INFO]: Knalla_13 joined the game
+[03:28:55] [User Authenticator #2/INFO]: UUID of player AgenteRetirado2 is 768d5506-6af9-4db6-9806-4e931e445670
+[03:28:56] [Server thread/INFO]: AgenteRetirado2[/127.227.171.162:33097] logged in with entity id 1300 at (54.04692853958998, 70.9375, 1435.6448517022598)
+[03:28:56] [Server thread/INFO]: AgenteRetirado2 joined the game
+[03:30:44] [Server thread/INFO]: AgenteRetirado2 has made the advancement [What a Deal!]
+[03:36:01] [User Authenticator #3/INFO]: UUID of player AnonimoDiGU is 3d15b136-f630-4674-a2d7-0c00b3b541bc
+[03:36:02] [Server thread/INFO]: AnonimoDiGU[/127.206.251.222:39399] logged in with entity id 2872 at (5.5, 64.0, 74.5)
+[03:36:02] [Server thread/INFO]: AnonimoDiGU joined the game
+[03:37:47] [Server thread/INFO]: [Knalla_13: Teleported AnonimoDiGU to Knalla_13]
+[03:39:42] [Server thread/INFO]: AnonimoDiGU has made the advancement [Suit Up]
+[03:40:02] [Server thread/INFO]: AnonimoDiGU has made the advancement [Diamonds!]
+[03:40:14] [Server thread/INFO]: AnonimoDiGU has made the advancement [Sweet Dreams]
+[03:40:36] [Server thread/INFO]: AnonimoDiGU has made the advancement [Acquire Hardware]
+[03:41:14] [Server thread/INFO]: AnonimoDiGU has made the advancement [A Seedy Place]
+[03:41:21] [Server thread/INFO]: AnonimoDiGU has made the advancement [The Parrots and the Bats]
