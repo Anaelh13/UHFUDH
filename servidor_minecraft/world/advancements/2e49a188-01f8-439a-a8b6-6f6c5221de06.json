@@ -688,6 +688,7 @@
       "minecraft:breeze": "2025-03-16 05:32:17 +0000",
       "minecraft:stray": "2025-03-14 03:56:55 +0000",
       "minecraft:enderman": "2025-03-17 03:26:48 +0000",
+      "minecraft:magma_cube": "2025-03-27 03:02:15 +0000",
       "minecraft:spider": "2025-03-14 03:53:57 +0000",
       "minecraft:zombie": "2025-03-14 03:55:04 +0000",
       "minecraft:creeper": "2025-03-14 03:57:49 +0000",
@@ -2276,7 +2277,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-03-27 02:16:11 +0000",
-      "minecraft:nether_wastes": "2025-03-27 02:18:35 +0000"
+      "minecraft:nether_wastes": "2025-03-27 02:18:35 +0000",
+      "minecraft:basalt_deltas": "2025-03-27 03:00:57 +0000"
     },
     "done": false
   },
