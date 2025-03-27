@@ -29,3 +29,8 @@
 [21:29:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-263, y=60, z=292} jd{x=-263, y=58, z=292}
 [21:29:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-263, y=60, z=292} jd{x=-263, y=58, z=292}
 [21:29:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-263, y=59, z=293} jd{x=-263, y=58, z=292}
+[21:40:30] [Server thread/INFO]: [Knalla_13: Teleported Knalla_13 to 16.500000, 61.000000, 170.500000]
+[21:44:18] [Server thread/INFO]: Knalla_13 fell from a high place
+[21:44:44] [Server thread/INFO]: [Knalla_13: Set 130 experience levels on Knalla_13]
+[21:49:07] [Server thread/INFO]: [Knalla_13: Set own game mode to Spectator Mode]
+[21:49:23] [Server thread/INFO]: [Knalla_13: Set own game mode to Survival Mode]
